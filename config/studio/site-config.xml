@@ -240,4 +240,5 @@ Prevent deleting, renaming or cutting root folders of sidebar
     <pattern>/site/videos</pattern>  
     <pattern>/site/origins</pattern> 
   </protected-folders-patterns> 
+  <previewServer>http://localhost:3000</previewServer>
 </site-config>
